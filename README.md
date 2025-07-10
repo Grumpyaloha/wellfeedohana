@@ -1,5 +1,5 @@
 # Well Feed Ohana
-Well Feed Ohana Git Repository Well Fed ʻOhana - Site Analysis & Planning Tool
+ Well Fed ʻOhana - Site Analysis & Planning Tool
 
 This is a data-driven React application designed for the "Well Fed ʻOhana" non-profit. It transforms a detailed site analysis checklist into a dynamic, multi-section digital form. The application uses Google Firebase for backend services (Authentication, Firestore Database) and integrates with the Google Gemini AI for intelligent data summarization.
 
